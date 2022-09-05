@@ -1,0 +1,98 @@
+[
+    {
+        "id": "7784",
+        "img": "./bomber_id/bomber_7784_common.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.9
+    },
+    {
+        "id": "12822",
+        "img": "./bomber_id/bomber_12822_legend.bmp",
+        "r_coloca_casa": true,
+        "limiar": 0.7
+        
+    },
+    {
+        "id": "15536",
+        "img": "./bomber_id/bomber_15536_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.9
+    },
+
+    {
+        "id": "17671",
+        "img": "./bomber_id/bomber_17671_common.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    
+    {
+        "id": "19733",
+        "img": "./bomber_id/bomber_19733_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "23774",
+        "img": "./bomber_id/bomber_23774_superrare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "28197",
+        "img": "./bomber_id/bomber_28197_superrare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "29922",
+        "img": "./bomber_id/bomber_29922_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.9
+    },
+
+    {
+        "id": "30329",
+        "img": "./bomber_id/bomber_30329_common.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "48495",
+        "img": "./bomber_id/bomber_48495_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+
+    {
+        "id": "653749",
+        "img": "./bomber_id/bomber_653749_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "653753",
+        "img": "./bomber_id/bomber_653753_common.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "812421",
+        "img": "./bomber_id/bomber_812421_rare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "812422",
+        "img": "./bomber_id/bomber_812422_common.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    },
+    {
+        "id": "1192973",
+        "img": "./bomber_id/bomber_1192973_superrare.bmp",
+        "r_coloca_casa": false,
+        "limiar": 0.8
+    }
+
+]
